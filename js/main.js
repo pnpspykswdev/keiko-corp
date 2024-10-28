@@ -1,4 +1,4 @@
-$(document).ready(function(){
+r$(document).ready(function(){
 
 	//Navigation menu scrollTo 
 	$('header nav ul li a').click(function(event){
